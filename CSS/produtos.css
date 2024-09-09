@@ -1,0 +1,18 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+div{
+    display: flex;
+    align-content: flex-start;
+}
+
+#Alien{
+    width: 200px;
+    height: 100px;
+}
